@@ -1,0 +1,15 @@
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\bin\Debug\net7.0\ParOuImpar.exe
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\bin\Debug\net7.0\ParOuImpar.deps.json
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\bin\Debug\net7.0\ParOuImpar.runtimeconfig.json
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\bin\Debug\net7.0\ParOuImpar.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\bin\Debug\net7.0\ParOuImpar.pdb
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.csproj.AssemblyReference.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\refint\ParOuImpar.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.pdb
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\ParOuImpar\obj\Debug\net7.0\ref\ParOuImpar.dll

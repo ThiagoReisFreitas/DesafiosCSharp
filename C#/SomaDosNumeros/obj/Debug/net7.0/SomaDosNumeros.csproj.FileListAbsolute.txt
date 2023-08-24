@@ -1,0 +1,15 @@
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\bin\Debug\net7.0\SomaDosNumeros.exe
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\bin\Debug\net7.0\SomaDosNumeros.deps.json
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\bin\Debug\net7.0\SomaDosNumeros.runtimeconfig.json
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\bin\Debug\net7.0\SomaDosNumeros.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\bin\Debug\net7.0\SomaDosNumeros.pdb
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.csproj.AssemblyReference.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.AssemblyInfoInputs.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.AssemblyInfo.cs
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\refint\SomaDosNumeros.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.pdb
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\SomaDosNumeros.genruntimeconfig.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\SomaDosNumeros\obj\Debug\net7.0\ref\SomaDosNumeros.dll

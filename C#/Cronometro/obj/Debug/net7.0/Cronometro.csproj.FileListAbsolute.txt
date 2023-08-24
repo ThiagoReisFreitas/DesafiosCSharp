@@ -1,0 +1,15 @@
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\bin\Debug\net7.0\Cronometro.exe
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\bin\Debug\net7.0\Cronometro.deps.json
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\bin\Debug\net7.0\Cronometro.runtimeconfig.json
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\bin\Debug\net7.0\Cronometro.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\bin\Debug\net7.0\Cronometro.pdb
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.csproj.AssemblyReference.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.AssemblyInfoInputs.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.AssemblyInfo.cs
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\refint\Cronometro.dll
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.pdb
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\Cronometro.genruntimeconfig.cache
+C:\Users\Reisc\OneDrive\Documentos\Personal\Estudo\projetos_c_sharp\Cronometro\obj\Debug\net7.0\ref\Cronometro.dll
